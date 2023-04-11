@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "max201")(type "KiCad")(uri "${KIPRJMOD}/max201.kicad_sym")(options "")(descr ""))
+  (lib (name "mc148x")(type "KiCad")(uri "${KIPRJMOD}/mc148x.kicad_sym")(options "")(descr ""))
+)
